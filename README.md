@@ -1,1 +1,1 @@
-https://deekshitha1612-crop-recommendation.hf.space/?__theme=system&deep_link=JARRmoyE7EM
+https://huggingface.co/spaces/Deekshitha1612/crop-recommendation
